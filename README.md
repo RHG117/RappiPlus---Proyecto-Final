@@ -122,7 +122,7 @@ rappiplus-analysis/
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/rappiplus-analysis.git
+git clone https://github.com/tu-usuario/RappiPlus---Proyecto-Final.git
 ```
 
 2. Instala las dependencias:
@@ -139,7 +139,7 @@ jupyter notebook notebook/rappiplus_analysis.ipynb
 
 ---
 
-### 👤 Autor
+### 👤 Ricardo Hernandez Garcia
 
 Proyecto desarrollado como parte del programa de **Data Analytics de TripleTen**.
 
@@ -264,7 +264,7 @@ rappiplus-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/rappiplus-analysis.git
+git clone https://github.com/your-username/RappiPlus---Proyecto-Final.git
 ```
 
 2. Install dependencies:
@@ -281,6 +281,6 @@ jupyter notebook notebook/rappiplus_analysis.ipynb
 
 ---
 
-### 👤 Author
+### 👤 Ricardo Heranandez Garcia
 
 Project developed as part of the **TripleTen Data Analytics** program.
